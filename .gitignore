@@ -12,3 +12,6 @@ comment_database.json
 #python stuff
 __pycache__/
 *.py[cod]
+
+#logs
+logs/
