@@ -1,0 +1,14 @@
+#acces token
+token
+
+#user datbases
+anagram_database.json
+comment_database.json
+
+#images
+*.png
+*.jpg
+
+#python stuff
+__pycache__/
+*.py[cod]

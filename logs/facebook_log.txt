@@ -1,0 +1,906 @@
+Wed May  8 23:23:38 2019    /home/andi/bots/anagrambot/FacebookPage.py  70  get_most_recent_posts: got recent posts
+Wed May  8 23:23:38 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:38 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:38 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:38 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:39 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:39 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:39 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:39 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:40 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:40 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:40 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:40 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:40 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:41 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:41 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:41 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:41 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:41 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:42 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:42 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:42 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:42 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:42 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:43 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:43 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:43 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:43 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:43 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:44 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:44 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:44 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:44 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:45 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:45 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:45 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:45 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:45 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:46 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:46 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:46 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:46 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:46 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:47 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:47 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:47 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:47 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:48 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:48 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:48 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:48 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:48 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:49 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:23:49 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:24:10 2019    /home/andi/bots/anagrambot/FacebookPage.py  70  get_most_recent_posts: got recent posts
+Wed May  8 23:24:10 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:24:10 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_721896661540740
+Wed May  8 23:24:11 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_718984201831986
+Wed May  8 23:24:40 2019    /home/andi/bots/anagrambot/FacebookPage.py  71  get_most_recent_posts: got recent posts
+Wed May  8 23:24:40 2019    /home/andi/bots/anagrambot/FacebookPage.py  37  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:24:40 2019    /home/andi/bots/anagrambot/FacebookPage.py  37  get_comments: getting comments to post 708885272841879_721896661540740
+Wed May  8 23:24:40 2019    /home/andi/bots/anagrambot/FacebookPage.py  37  get_comments: getting comments to post 708885272841879_718984201831986
+Wed May  8 23:25:20 2019    /home/andi/bots/anagrambot/FacebookPage.py  71  get_most_recent_posts: got recent posts
+Wed May  8 23:25:20 2019    /home/andi/bots/anagrambot/FacebookPage.py  37  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:25:21 2019    /home/andi/bots/anagrambot/FacebookPage.py  37  get_comments: getting comments to post 708885272841879_721896661540740
+Wed May  8 23:25:21 2019    /home/andi/bots/anagrambot/FacebookPage.py  37  get_comments: getting comments to post 708885272841879_718984201831986
+Wed May  8 23:25:34 2019    /home/andi/bots/anagrambot/FacebookPage.py  71  get_most_recent_posts: got recent posts
+Wed May  8 23:25:34 2019    /home/andi/bots/anagrambot/FacebookPage.py  37  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:25:34 2019    /home/andi/bots/anagrambot/FacebookPage.py  37  get_comments: getting comments to post 708885272841879_721896661540740
+Wed May  8 23:25:34 2019    /home/andi/bots/anagrambot/FacebookPage.py  37  get_comments: getting comments to post 708885272841879_718984201831986
+Wed May  8 23:25:53 2019    /home/andi/bots/anagrambot/FacebookPage.py  71  get_most_recent_posts: got recent posts
+Wed May  8 23:25:53 2019    /home/andi/bots/anagrambot/FacebookPage.py  37  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:25:53 2019    /home/andi/bots/anagrambot/FacebookPage.py  37  get_comments: getting comments to post 708885272841879_721896661540740
+Wed May  8 23:25:54 2019    /home/andi/bots/anagrambot/FacebookPage.py  37  get_comments: getting comments to post 708885272841879_718984201831986
+Wed May  8 23:26:35 2019    /home/andi/bots/anagrambot/FacebookPage.py  71  get_most_recent_posts: got recent posts
+Wed May  8 23:26:36 2019    /home/andi/bots/anagrambot/FacebookPage.py  37  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:26:36 2019    /home/andi/bots/anagrambot/FacebookPage.py  37  get_comments: getting comments to post 708885272841879_721896661540740
+Wed May  8 23:26:36 2019    /home/andi/bots/anagrambot/FacebookPage.py  37  get_comments: getting comments to post 708885272841879_718984201831986
+Wed May  8 23:27:14 2019    /home/andi/bots/anagrambot/FacebookPage.py  70  get_most_recent_posts: got recent posts
+Wed May  8 23:27:14 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:27:14 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_721896661540740
+Wed May  8 23:27:14 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_718984201831986
+Wed May  8 23:27:15 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: b'how does this work'
+Wed May  8 23:27:15 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: b'Ello'
+Wed May  8 23:27:15 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: b'Wup'
+Wed May  8 23:27:15 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: b'what is this sorcery'
+Wed May  8 23:27:15 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: b'Hi'
+Wed May  8 23:27:15 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: b'Hh'
+Wed May  8 23:27:15 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: b'E'
+Wed May  8 23:27:15 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: b'Cool'
+Wed May  8 23:27:15 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: b'Give me my anagram'
+Wed May  8 23:27:15 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: b'Gimme a anagram pls'
+Wed May  8 23:27:15 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: b'holy fuck this bot is amazing great job botmin'
+Wed May  8 23:27:15 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: b'nword'
+Wed May  8 23:27:31 2019    /home/andi/bots/anagrambot/FacebookPage.py  70  get_most_recent_posts: got recent posts
+Wed May  8 23:27:31 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:27:31 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_721896661540740
+Wed May  8 23:27:32 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_718984201831986
+Wed May  8 23:27:32 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: b'h'
+Wed May  8 23:27:32 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: b'E'
+Wed May  8 23:27:32 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: b'W'
+Wed May  8 23:27:32 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: b'w'
+Wed May  8 23:27:32 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: b'H'
+Wed May  8 23:27:32 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: b'H'
+Wed May  8 23:27:32 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: b'E'
+Wed May  8 23:27:32 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: b'C'
+Wed May  8 23:27:32 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: b'G'
+Wed May  8 23:27:32 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: b'G'
+Wed May  8 23:27:32 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: b'h'
+Wed May  8 23:27:32 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: b'n'
+Wed May  8 23:27:36 2019    /home/andi/bots/anagrambot/FacebookPage.py  70  get_most_recent_posts: got recent posts
+Wed May  8 23:27:36 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:27:36 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_721896661540740
+Wed May  8 23:27:37 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_718984201831986
+Wed May  8 23:27:37 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: b'o'
+Wed May  8 23:27:37 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: b'l'
+Wed May  8 23:27:37 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: b'u'
+Wed May  8 23:27:37 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: b'h'
+Wed May  8 23:27:37 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: b'i'
+Wed May  8 23:27:37 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: b'h'
+Wed May  8 23:28:00 2019    /home/andi/bots/anagrambot/FacebookPage.py  70  get_most_recent_posts: got recent posts
+Wed May  8 23:28:01 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:28:01 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_721896661540740
+Wed May  8 23:28:01 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_718984201831986
+Wed May  8 23:28:01 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: how does this work
+Wed May  8 23:28:01 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: Ello
+Wed May  8 23:28:01 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: Wup
+Wed May  8 23:28:01 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: what is this sorcery
+Wed May  8 23:28:01 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: Hi
+Wed May  8 23:28:01 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: Hh
+Wed May  8 23:28:01 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: E
+Wed May  8 23:28:01 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: Cool
+Wed May  8 23:28:01 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: Give me my anagram
+Wed May  8 23:28:01 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: Gimme a anagram pls
+Wed May  8 23:28:01 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: holy fuck this bot is amazing great job botmin
+Wed May  8 23:28:01 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: nword
+Wed May  8 23:28:23 2019    /home/andi/bots/anagrambot/FacebookPage.py  70  get_most_recent_posts: got recent posts
+Wed May  8 23:28:23 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:28:23 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_721896661540740
+Wed May  8 23:28:23 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_718984201831986
+Wed May  8 23:28:24 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: how does this work
+Wed May  8 23:28:24 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: Ello
+Wed May  8 23:28:24 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: Wup
+Wed May  8 23:28:24 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: what is this sorcery
+Wed May  8 23:28:24 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: Hi
+Wed May  8 23:28:24 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: Hh
+Wed May  8 23:28:24 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: E
+Wed May  8 23:28:24 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: Cool
+Wed May  8 23:28:24 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: Give me my anagram
+Wed May  8 23:28:24 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: Gimme a anagram pls
+Wed May  8 23:28:24 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: holy fuck this bot is amazing great job botmin
+Wed May  8 23:28:24 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. text: nword
+Wed May  8 23:28:43 2019    /home/andi/bots/anagrambot/FacebookPage.py  70  get_most_recent_posts: got recent posts
+Wed May  8 23:28:43 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:28:43 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_721896661540740
+Wed May  8 23:28:44 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_718984201831986
+Wed May  8 23:28:44 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Viktor Steve Goldenbear
+Wed May  8 23:28:44 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Cezary Nowak
+Wed May  8 23:28:44 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Pi Pellegrini
+Wed May  8 23:28:44 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Matt Joseph
+Wed May  8 23:28:44 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Julia Greg Strzelczyk
+Wed May  8 23:28:44 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Joao Guilherme
+Wed May  8 23:28:44 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Rin Merin
+Wed May  8 23:28:44 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Matheus Rocha
+Wed May  8 23:28:44 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Loner
+Wed May  8 23:28:44 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Rafael R. Lima
+Wed May  8 23:28:44 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Jordan Cabobola
+Wed May  8 23:28:44 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Ryan Enipol
+Wed May  8 23:28:55 2019    /home/andi/bots/anagrambot/FacebookPage.py  70  get_most_recent_posts: got recent posts
+Wed May  8 23:28:55 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:28:55 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_721896661540740
+Wed May  8 23:28:56 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_718984201831986
+Wed May  8 23:28:56 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: b'Viktor Steve Goldenbear'
+Wed May  8 23:28:56 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: b'Cezary Nowak'
+Wed May  8 23:28:56 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: b'Pi Pellegrini'
+Wed May  8 23:28:56 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: b'Matt Joseph'
+Wed May  8 23:28:56 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: b'Julia Greg Strzelczyk'
+Wed May  8 23:28:56 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: b'Joao Guilherme'
+Wed May  8 23:28:56 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: b'Rin Merin'
+Wed May  8 23:28:56 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: b'Matheus Rocha'
+Wed May  8 23:28:56 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: b'Loner'
+Wed May  8 23:28:56 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: b'Rafael R. Lima'
+Wed May  8 23:28:56 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: b'Jordan Cabobola'
+Wed May  8 23:28:56 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: b'Ryan Enipol'
+Wed May  8 23:29:06 2019    /home/andi/bots/anagrambot/FacebookPage.py  70  get_most_recent_posts: got recent posts
+Wed May  8 23:29:06 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:29:07 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_721896661540740
+Wed May  8 23:29:07 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_718984201831986
+Wed May  8 23:29:07 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Viktor Steve Goldenbear
+Wed May  8 23:29:07 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Cezary Nowak
+Wed May  8 23:29:07 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Pi Pellegrini
+Wed May  8 23:29:07 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Matt Joseph
+Wed May  8 23:29:07 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Julia Greg Strzelczyk
+Wed May  8 23:29:07 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Joao Guilherme
+Wed May  8 23:29:07 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Rin Merin
+Wed May  8 23:29:07 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Matheus Rocha
+Wed May  8 23:29:07 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Loner
+Wed May  8 23:29:07 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Rafael R. Lima
+Wed May  8 23:29:07 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Jordan Cabobola
+Wed May  8 23:29:07 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Ryan Enipol
+Wed May  8 23:30:42 2019    /home/andi/bots/anagrambot/FacebookPage.py  70  get_most_recent_posts: got recent posts
+Wed May  8 23:30:42 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:30:43 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_721896661540740
+Wed May  8 23:30:43 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_718984201831986
+Wed May  8 23:30:43 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Viktor Steve Goldenbear
+Wed May  8 23:30:43 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Cezary Nowak
+Wed May  8 23:30:43 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Pi Pellegrini
+Wed May  8 23:30:43 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Matt Joseph
+Wed May  8 23:30:43 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Julia Greg Strzelczyk
+Wed May  8 23:30:43 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Joao Guilherme
+Wed May  8 23:30:43 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Rin Merin
+Wed May  8 23:30:43 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Matheus Rocha
+Wed May  8 23:30:43 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Loner
+Wed May  8 23:30:43 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Rafael R. Lima
+Wed May  8 23:30:43 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Jordan Cabobola
+Wed May  8 23:30:43 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Ryan Enipol
+Wed May  8 23:30:58 2019    /home/andi/bots/anagrambot/FacebookPage.py  70  get_most_recent_posts: got recent posts
+Wed May  8 23:30:58 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_722444844819255
+Wed May  8 23:30:59 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_721896661540740
+Wed May  8 23:30:59 2019    /home/andi/bots/anagrambot/FacebookPage.py  36  get_comments: getting comments to post 708885272841879_718984201831986
+Wed May  8 23:30:59 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Viktor Steve Goldenbear
+Wed May  8 23:30:59 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Cezary Nowak
+Wed May  8 23:30:59 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Pi Pellegrini
+Wed May  8 23:30:59 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Matt Joseph
+Wed May  8 23:30:59 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Julia Greg Strzelczyk
+Wed May  8 23:30:59 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Joao Guilherme
+Wed May  8 23:30:59 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Rin Merin
+Wed May  8 23:30:59 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Matheus Rocha
+Wed May  8 23:30:59 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Loner
+Wed May  8 23:30:59 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Rafael R. Lima
+Wed May  8 23:30:59 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Jordan Cabobola
+Wed May  8 23:30:59 2019    /home/andi/bots/anagrambot/FacebookPage.py  14  __init__: init comment. user_name: Ryan Enipol
+Wed May  8 23:31:02 2019    /home/andi/bots/anagrambot/FacebookPage.py  23  comment_image: posted nested image comment
+Thu May  9 01:56:03 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_722444844819255
+Thu May  9 01:56:04 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_721896661540740
+Thu May  9 01:56:04 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718984201831986
+Thu May  9 01:56:05 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718977285166011
+Thu May  9 01:56:05 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718970641833342
+Thu May  9 01:56:05 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718953288501744
+Thu May  9 01:56:06 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718940918502981
+Thu May  9 01:56:06 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718931415170598
+Thu May  9 01:56:07 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718923145171425
+Thu May  9 01:56:07 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718898335173906
+Thu May  9 01:56:07 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718893191841087
+Thu May  9 01:56:08 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718870335176706
+Thu May  9 01:56:08 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718853065178433
+Thu May  9 01:56:08 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718832175180522
+Thu May  9 01:56:09 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718826041847802
+Thu May  9 01:56:10 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718810411849365
+Thu May  9 01:56:10 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718783551852051
+Thu May  9 01:56:11 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718770068520066
+Thu May  9 01:56:11 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718743538522719
+Thu May  9 01:56:12 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718735145190225
+Thu May  9 01:56:12 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718727975190942
+Thu May  9 01:56:13 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718694675194272
+Thu May  9 01:56:13 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718665071863899
+Thu May  9 01:56:14 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718641291866277
+Thu May  9 01:56:14 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718599411870465
+Thu May  9 01:59:24 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_722444844819255
+Thu May  9 01:59:25 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_721896661540740
+Thu May  9 01:59:25 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718984201831986
+Thu May  9 01:59:25 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718977285166011
+Thu May  9 01:59:25 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718970641833342
+Thu May  9 01:59:25 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718953288501744
+Thu May  9 01:59:25 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718940918502981
+Thu May  9 01:59:26 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718931415170598
+Thu May  9 01:59:26 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718923145171425
+Thu May  9 01:59:26 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718898335173906
+Thu May  9 01:59:26 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718893191841087
+Thu May  9 01:59:26 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718870335176706
+Thu May  9 01:59:26 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718853065178433
+Thu May  9 01:59:27 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718832175180522
+Thu May  9 01:59:27 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718826041847802
+Thu May  9 01:59:27 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718810411849365
+Thu May  9 01:59:27 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718783551852051
+Thu May  9 01:59:27 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718770068520066
+Thu May  9 01:59:28 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718743538522719
+Thu May  9 01:59:28 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718735145190225
+Thu May  9 01:59:28 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718727975190942
+Thu May  9 01:59:29 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718694675194272
+Thu May  9 01:59:29 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718665071863899
+Thu May  9 01:59:29 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718641291866277
+Thu May  9 01:59:29 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718599411870465
+Thu May  9 02:01:23 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_722444844819255
+Thu May  9 02:01:23 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_721896661540740
+Thu May  9 02:01:23 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718984201831986
+Thu May  9 02:01:23 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718977285166011
+Thu May  9 02:01:24 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718970641833342
+Thu May  9 02:01:24 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718953288501744
+Thu May  9 02:01:25 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718940918502981
+Thu May  9 02:01:25 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718931415170598
+Thu May  9 02:01:26 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718923145171425
+Thu May  9 02:01:26 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718898335173906
+Thu May  9 02:01:26 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718893191841087
+Thu May  9 02:01:26 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718870335176706
+Thu May  9 02:01:27 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718853065178433
+Thu May  9 02:01:27 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718832175180522
+Thu May  9 02:01:28 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718826041847802
+Thu May  9 02:01:28 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718810411849365
+Thu May  9 02:01:29 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718783551852051
+Thu May  9 02:01:29 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718770068520066
+Thu May  9 02:01:30 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718743538522719
+Thu May  9 02:01:30 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718735145190225
+Thu May  9 02:01:31 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718727975190942
+Thu May  9 02:01:31 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718694675194272
+Thu May  9 02:01:32 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718665071863899
+Thu May  9 02:01:32 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718641291866277
+Thu May  9 02:01:33 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718599411870465
+Thu May  9 02:11:44 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746889412374798
+Thu May  9 02:11:44 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_722444844819255
+Thu May  9 02:11:44 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_721896661540740
+Thu May  9 02:11:44 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718984201831986
+Thu May  9 02:11:44 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718977285166011
+Thu May  9 02:11:45 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718970641833342
+Thu May  9 02:11:45 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718953288501744
+Thu May  9 02:11:45 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718940918502981
+Thu May  9 02:11:46 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718931415170598
+Thu May  9 02:11:46 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718923145171425
+Thu May  9 02:11:46 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718898335173906
+Thu May  9 02:11:47 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718893191841087
+Thu May  9 02:11:47 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718870335176706
+Thu May  9 02:11:47 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718853065178433
+Thu May  9 02:11:47 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718832175180522
+Thu May  9 02:11:47 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718826041847802
+Thu May  9 02:11:48 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718810411849365
+Thu May  9 02:11:48 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718783551852051
+Thu May  9 02:11:49 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718770068520066
+Thu May  9 02:11:49 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718743538522719
+Thu May  9 02:11:49 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718735145190225
+Thu May  9 02:11:50 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718727975190942
+Thu May  9 02:11:50 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718694675194272
+Thu May  9 02:11:51 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718665071863899
+Thu May  9 02:11:51 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718641291866277
+Thu May  9 02:11:57 2019    /home/andi/bots/anagrambot/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 02:12:06 2019    /home/andi/bots/anagrambot/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 05:40:41 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746892929041113
+Thu May  9 05:40:42 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746889412374798
+Thu May  9 05:40:42 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_722444844819255
+Thu May  9 05:40:42 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_721896661540740
+Thu May  9 05:40:42 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718984201831986
+Thu May  9 05:40:43 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718977285166011
+Thu May  9 05:40:43 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718970641833342
+Thu May  9 05:40:43 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718953288501744
+Thu May  9 05:40:44 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718940918502981
+Thu May  9 05:40:44 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718931415170598
+Thu May  9 05:40:44 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718923145171425
+Thu May  9 05:40:44 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718898335173906
+Thu May  9 05:40:45 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718893191841087
+Thu May  9 05:40:45 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718870335176706
+Thu May  9 05:40:45 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718853065178433
+Thu May  9 05:40:45 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718832175180522
+Thu May  9 05:40:46 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718826041847802
+Thu May  9 05:40:46 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718810411849365
+Thu May  9 05:40:46 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718783551852051
+Thu May  9 05:40:47 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718770068520066
+Thu May  9 05:40:47 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718743538522719
+Thu May  9 05:40:48 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718735145190225
+Thu May  9 05:40:48 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718727975190942
+Thu May  9 05:40:49 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718694675194272
+Thu May  9 05:40:49 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718665071863899
+Thu May  9 05:40:55 2019    /home/andi/bots/anagrambot/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 05:42:05 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746892929041113
+Thu May  9 05:42:05 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746889412374798
+Thu May  9 05:42:05 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_722444844819255
+Thu May  9 05:42:05 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_721896661540740
+Thu May  9 05:42:06 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718984201831986
+Thu May  9 05:42:06 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718977285166011
+Thu May  9 05:42:06 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718970641833342
+Thu May  9 05:42:06 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718953288501744
+Thu May  9 05:42:06 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718940918502981
+Thu May  9 05:42:07 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718931415170598
+Thu May  9 05:42:07 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718923145171425
+Thu May  9 05:42:07 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718898335173906
+Thu May  9 05:42:07 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718893191841087
+Thu May  9 05:42:07 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718870335176706
+Thu May  9 05:42:07 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718853065178433
+Thu May  9 05:42:08 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718832175180522
+Thu May  9 05:42:08 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718826041847802
+Thu May  9 05:42:08 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718810411849365
+Thu May  9 05:42:08 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718783551852051
+Thu May  9 05:42:08 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718770068520066
+Thu May  9 05:42:09 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718743538522719
+Thu May  9 05:42:09 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718735145190225
+Thu May  9 05:42:09 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718727975190942
+Thu May  9 05:42:09 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718694675194272
+Thu May  9 05:42:09 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718665071863899
+Thu May  9 05:42:15 2019    /home/andi/bots/anagrambot/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 05:43:33 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746892929041113
+Thu May  9 05:43:33 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746889412374798
+Thu May  9 05:43:33 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_722444844819255
+Thu May  9 05:43:33 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_721896661540740
+Thu May  9 05:43:33 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718984201831986
+Thu May  9 05:43:34 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718977285166011
+Thu May  9 05:43:34 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718970641833342
+Thu May  9 05:43:34 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718953288501744
+Thu May  9 05:43:34 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718940918502981
+Thu May  9 05:43:34 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718931415170598
+Thu May  9 05:43:35 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718923145171425
+Thu May  9 05:43:35 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718898335173906
+Thu May  9 05:43:35 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718893191841087
+Thu May  9 05:43:35 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718870335176706
+Thu May  9 05:43:36 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718853065178433
+Thu May  9 05:43:36 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718832175180522
+Thu May  9 05:43:36 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718826041847802
+Thu May  9 05:43:36 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718810411849365
+Thu May  9 05:43:36 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718783551852051
+Thu May  9 05:43:37 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718770068520066
+Thu May  9 05:43:37 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718743538522719
+Thu May  9 05:43:37 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718735145190225
+Thu May  9 05:43:37 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718727975190942
+Thu May  9 05:43:37 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718694675194272
+Thu May  9 05:43:38 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718665071863899
+Thu May  9 05:47:52 2019    /home/andi/bots/anagrambot/FacebookPage.py  102  post_image: 
+Thu May  9 05:47:52 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746966469033759
+Thu May  9 05:47:52 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746965585700514
+Thu May  9 05:47:53 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746892929041113
+Thu May  9 05:47:53 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746889412374798
+Thu May  9 05:47:53 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_722444844819255
+Thu May  9 05:47:53 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_721896661540740
+Thu May  9 05:47:53 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718984201831986
+Thu May  9 05:47:54 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718977285166011
+Thu May  9 05:47:54 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718970641833342
+Thu May  9 05:47:55 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718953288501744
+Thu May  9 05:47:55 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718940918502981
+Thu May  9 05:47:56 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718931415170598
+Thu May  9 05:47:56 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718923145171425
+Thu May  9 05:47:56 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718898335173906
+Thu May  9 05:47:57 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718893191841087
+Thu May  9 05:47:57 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718870335176706
+Thu May  9 05:47:57 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718853065178433
+Thu May  9 05:47:58 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718832175180522
+Thu May  9 05:47:58 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718826041847802
+Thu May  9 05:47:59 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718810411849365
+Thu May  9 05:47:59 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718783551852051
+Thu May  9 05:48:00 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718770068520066
+Thu May  9 05:48:00 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718743538522719
+Thu May  9 05:48:01 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718735145190225
+Thu May  9 05:48:02 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718727975190942
+Thu May  9 05:48:08 2019    /home/andi/bots/anagrambot/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 05:48:18 2019    /home/andi/bots/anagrambot/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 05:48:24 2019    /home/andi/bots/anagrambot/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 05:48:30 2019    /home/andi/bots/anagrambot/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 05:48:35 2019    /home/andi/bots/anagrambot/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 05:48:41 2019    /home/andi/bots/anagrambot/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 05:48:46 2019    /home/andi/bots/anagrambot/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 05:48:52 2019    /home/andi/bots/anagrambot/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 05:48:57 2019    /home/andi/bots/anagrambot/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 05:49:03 2019    /home/andi/bots/anagrambot/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 05:49:08 2019    /home/andi/bots/anagrambot/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 05:49:14 2019    /home/andi/bots/anagrambot/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 05:49:19 2019    /home/andi/bots/anagrambot/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 05:49:25 2019    /home/andi/bots/anagrambot/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 05:49:31 2019    /home/andi/bots/anagrambot/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 05:49:38 2019    /home/andi/bots/anagrambot/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 05:50:43 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746966469033759
+Thu May  9 05:50:43 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746965585700514
+Thu May  9 05:50:43 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746892929041113
+Thu May  9 05:50:43 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746889412374798
+Thu May  9 05:50:44 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_722444844819255
+Thu May  9 05:50:44 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_721896661540740
+Thu May  9 05:50:44 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718984201831986
+Thu May  9 05:50:44 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718977285166011
+Thu May  9 05:50:44 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718970641833342
+Thu May  9 05:50:44 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718953288501744
+Thu May  9 05:50:45 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718940918502981
+Thu May  9 05:50:45 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718931415170598
+Thu May  9 05:50:45 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718923145171425
+Thu May  9 05:50:45 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718898335173906
+Thu May  9 05:50:45 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718893191841087
+Thu May  9 05:50:46 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718870335176706
+Thu May  9 05:50:46 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718853065178433
+Thu May  9 05:50:46 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718832175180522
+Thu May  9 05:50:46 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718826041847802
+Thu May  9 05:50:46 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718810411849365
+Thu May  9 05:50:47 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718783551852051
+Thu May  9 05:50:47 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718770068520066
+Thu May  9 05:50:47 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718743538522719
+Thu May  9 05:50:47 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718735145190225
+Thu May  9 05:50:47 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718727975190942
+Thu May  9 05:50:54 2019    /home/andi/bots/anagrambot/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 05:51:00 2019    /home/andi/bots/anagrambot/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 05:51:06 2019    /home/andi/bots/anagrambot/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 05:52:11 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746966469033759
+Thu May  9 05:52:11 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746965585700514
+Thu May  9 05:52:12 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746892929041113
+Thu May  9 05:52:12 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746889412374798
+Thu May  9 05:52:12 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_722444844819255
+Thu May  9 05:52:12 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_721896661540740
+Thu May  9 05:52:12 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718984201831986
+Thu May  9 05:52:13 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718977285166011
+Thu May  9 05:52:13 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718970641833342
+Thu May  9 05:52:13 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718953288501744
+Thu May  9 05:52:13 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718940918502981
+Thu May  9 05:52:13 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718931415170598
+Thu May  9 05:52:14 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718923145171425
+Thu May  9 05:52:14 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718898335173906
+Thu May  9 05:52:14 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718893191841087
+Thu May  9 05:52:14 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718870335176706
+Thu May  9 05:52:14 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718853065178433
+Thu May  9 05:52:14 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718832175180522
+Thu May  9 05:52:15 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718826041847802
+Thu May  9 05:52:15 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718810411849365
+Thu May  9 05:52:15 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718783551852051
+Thu May  9 05:52:15 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718770068520066
+Thu May  9 05:52:15 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718743538522719
+Thu May  9 05:52:16 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718735145190225
+Thu May  9 05:52:16 2019    /home/andi/bots/anagrambot/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718727975190942
+Thu May  9 04:00:32 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  102  post_image: {"id":"746971172366622","post_id":"708885272841879_746971172366622"}
+Thu May  9 04:00:32 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746971172366622
+Thu May  9 04:00:32 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746966469033759
+Thu May  9 04:00:33 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746965585700514
+Thu May  9 04:00:33 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746892929041113
+Thu May  9 04:00:33 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746889412374798
+Thu May  9 04:00:34 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_722444844819255
+Thu May  9 04:00:34 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_721896661540740
+Thu May  9 04:00:34 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718984201831986
+Thu May  9 04:00:34 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718977285166011
+Thu May  9 04:00:34 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718970641833342
+Thu May  9 04:00:35 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718953288501744
+Thu May  9 04:00:35 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718940918502981
+Thu May  9 04:00:35 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718931415170598
+Thu May  9 04:00:36 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718923145171425
+Thu May  9 04:00:36 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718898335173906
+Thu May  9 04:00:37 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718893191841087
+Thu May  9 04:00:37 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718870335176706
+Thu May  9 04:00:37 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718853065178433
+Thu May  9 04:00:37 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718832175180522
+Thu May  9 04:00:38 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718826041847802
+Thu May  9 04:00:38 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718810411849365
+Thu May  9 04:00:39 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718783551852051
+Thu May  9 04:00:39 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718770068520066
+Thu May  9 04:00:40 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718743538522719
+Thu May  9 04:00:41 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718735145190225
+Thu May  9 04:00:44 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:00:47 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:00:50 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:00:52 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:00:55 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:00:58 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:01:01 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:01:04 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:01:07 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:01:10 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:01:13 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:16:15 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  102  post_image: {"id":"746976535699419","post_id":"708885272841879_746976535699419"}
+Thu May  9 04:16:26 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746976535699419
+Thu May  9 04:16:26 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746971172366622
+Thu May  9 04:16:26 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746966469033759
+Thu May  9 04:16:27 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746965585700514
+Thu May  9 04:16:27 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746892929041113
+Thu May  9 04:16:27 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746889412374798
+Thu May  9 04:16:28 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_722444844819255
+Thu May  9 04:16:28 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_721896661540740
+Thu May  9 04:16:28 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718984201831986
+Thu May  9 04:16:28 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718977285166011
+Thu May  9 04:16:28 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718970641833342
+Thu May  9 04:16:29 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718953288501744
+Thu May  9 04:16:29 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718940918502981
+Thu May  9 04:16:29 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718931415170598
+Thu May  9 04:16:30 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718923145171425
+Thu May  9 04:16:30 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718898335173906
+Thu May  9 04:16:30 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718893191841087
+Thu May  9 04:16:30 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718870335176706
+Thu May  9 04:16:30 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718853065178433
+Thu May  9 04:16:31 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718832175180522
+Thu May  9 04:16:31 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718826041847802
+Thu May  9 04:16:32 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718810411849365
+Thu May  9 04:16:32 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718783551852051
+Thu May  9 04:16:32 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718770068520066
+Thu May  9 04:16:33 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718743538522719
+Thu May  9 04:16:37 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:18:23 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746976535699419
+Thu May  9 04:18:23 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746971172366622
+Thu May  9 04:18:23 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746966469033759
+Thu May  9 04:18:23 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746965585700514
+Thu May  9 04:18:24 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746892929041113
+Thu May  9 04:18:24 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746889412374798
+Thu May  9 04:18:24 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_722444844819255
+Thu May  9 04:18:25 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_721896661540740
+Thu May  9 04:18:25 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718984201831986
+Thu May  9 04:18:25 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718977285166011
+Thu May  9 04:18:25 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718970641833342
+Thu May  9 04:18:26 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718953288501744
+Thu May  9 04:18:26 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718940918502981
+Thu May  9 04:18:26 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718931415170598
+Thu May  9 04:18:27 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718923145171425
+Thu May  9 04:18:27 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718898335173906
+Thu May  9 04:18:28 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718893191841087
+Thu May  9 04:18:28 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718870335176706
+Thu May  9 04:18:28 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718853065178433
+Thu May  9 04:18:28 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718832175180522
+Thu May  9 04:18:29 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718826041847802
+Thu May  9 04:18:29 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718810411849365
+Thu May  9 04:18:29 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718783551852051
+Thu May  9 04:18:29 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718770068520066
+Thu May  9 04:18:30 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718743538522719
+Thu May  9 04:18:33 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:22:48 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  102  post_image: {"id":"746978785699194","post_id":"708885272841879_746978785699194"}
+Thu May  9 04:22:59 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746978785699194
+Thu May  9 04:22:59 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746976535699419
+Thu May  9 04:22:59 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746971172366622
+Thu May  9 04:22:59 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746966469033759
+Thu May  9 04:23:00 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746965585700514
+Thu May  9 04:23:00 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746892929041113
+Thu May  9 04:23:00 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746889412374798
+Thu May  9 04:23:00 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_722444844819255
+Thu May  9 04:23:01 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_721896661540740
+Thu May  9 04:23:01 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718984201831986
+Thu May  9 04:23:01 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718977285166011
+Thu May  9 04:23:01 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718970641833342
+Thu May  9 04:23:02 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718953288501744
+Thu May  9 04:23:02 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718940918502981
+Thu May  9 04:23:02 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718931415170598
+Thu May  9 04:23:03 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718923145171425
+Thu May  9 04:23:03 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718898335173906
+Thu May  9 04:23:03 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718893191841087
+Thu May  9 04:23:03 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718870335176706
+Thu May  9 04:23:03 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718853065178433
+Thu May  9 04:23:04 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718832175180522
+Thu May  9 04:23:04 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718826041847802
+Thu May  9 04:23:05 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718810411849365
+Thu May  9 04:23:05 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718783551852051
+Thu May  9 04:23:05 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718770068520066
+Thu May  9 04:23:08 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:24:55 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746978785699194
+Thu May  9 04:24:55 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746976535699419
+Thu May  9 04:24:56 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746971172366622
+Thu May  9 04:24:56 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746966469033759
+Thu May  9 04:24:56 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746965585700514
+Thu May  9 04:24:56 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746892929041113
+Thu May  9 04:24:57 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746889412374798
+Thu May  9 04:24:57 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_722444844819255
+Thu May  9 04:24:57 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_721896661540740
+Thu May  9 04:24:57 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718984201831986
+Thu May  9 04:24:58 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718977285166011
+Thu May  9 04:24:58 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718970641833342
+Thu May  9 04:24:58 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718953288501744
+Thu May  9 04:24:59 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718940918502981
+Thu May  9 04:24:59 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718931415170598
+Thu May  9 04:25:00 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718923145171425
+Thu May  9 04:25:00 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718898335173906
+Thu May  9 04:25:00 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718893191841087
+Thu May  9 04:25:00 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718870335176706
+Thu May  9 04:25:01 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718853065178433
+Thu May  9 04:25:01 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718832175180522
+Thu May  9 04:25:01 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718826041847802
+Thu May  9 04:25:02 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718810411849365
+Thu May  9 04:25:02 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718783551852051
+Thu May  9 04:25:02 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718770068520066
+Thu May  9 04:25:06 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:26:48 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746978785699194
+Thu May  9 04:26:48 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746976535699419
+Thu May  9 04:26:49 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746971172366622
+Thu May  9 04:26:49 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746966469033759
+Thu May  9 04:26:49 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746965585700514
+Thu May  9 04:26:50 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746892929041113
+Thu May  9 04:26:50 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746889412374798
+Thu May  9 04:26:50 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_722444844819255
+Thu May  9 04:26:50 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_721896661540740
+Thu May  9 04:26:51 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718984201831986
+Thu May  9 04:26:51 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718977285166011
+Thu May  9 04:26:51 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718970641833342
+Thu May  9 04:26:51 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718953288501744
+Thu May  9 04:26:52 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718940918502981
+Thu May  9 04:26:52 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718931415170598
+Thu May  9 04:26:52 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718923145171425
+Thu May  9 04:26:52 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718898335173906
+Thu May  9 04:26:53 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718893191841087
+Thu May  9 04:26:53 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718870335176706
+Thu May  9 04:26:53 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718853065178433
+Thu May  9 04:26:53 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718832175180522
+Thu May  9 04:26:53 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718826041847802
+Thu May  9 04:26:54 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718810411849365
+Thu May  9 04:26:54 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718783551852051
+Thu May  9 04:26:54 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718770068520066
+Thu May  9 04:26:57 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:30:39 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  102  post_image: {"id":"746981142365625","post_id":"708885272841879_746981142365625"}
+Thu May  9 04:30:49 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746981142365625
+Thu May  9 04:30:50 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746978785699194
+Thu May  9 04:30:50 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746976535699419
+Thu May  9 04:30:50 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746971172366622
+Thu May  9 04:30:51 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746966469033759
+Thu May  9 04:30:51 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746965585700514
+Thu May  9 04:30:51 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746892929041113
+Thu May  9 04:30:51 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746889412374798
+Thu May  9 04:30:52 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_722444844819255
+Thu May  9 04:30:52 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_721896661540740
+Thu May  9 04:30:52 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718984201831986
+Thu May  9 04:30:53 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718977285166011
+Thu May  9 04:30:53 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718970641833342
+Thu May  9 04:30:53 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718953288501744
+Thu May  9 04:30:54 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718940918502981
+Thu May  9 04:30:54 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718931415170598
+Thu May  9 04:30:54 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718923145171425
+Thu May  9 04:30:55 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718898335173906
+Thu May  9 04:30:55 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718893191841087
+Thu May  9 04:30:55 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718870335176706
+Thu May  9 04:30:55 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718853065178433
+Thu May  9 04:30:56 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718832175180522
+Thu May  9 04:30:57 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718826041847802
+Thu May  9 04:30:58 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718810411849365
+Thu May  9 04:30:59 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718783551852051
+Thu May  9 04:31:02 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:31:05 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:31:09 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:31:13 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:31:16 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:31:19 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:31:22 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:31:25 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:31:28 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:31:31 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:31:34 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:31:38 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:31:43 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:32:01 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:38:15 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  102  post_image: {"id":"746983955698677","post_id":"708885272841879_746983955698677"}
+Thu May  9 04:38:26 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746983955698677
+Thu May  9 04:38:26 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746981142365625
+Thu May  9 04:38:27 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746978785699194
+Thu May  9 04:38:27 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746976535699419
+Thu May  9 04:38:27 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746971172366622
+Thu May  9 04:38:28 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746966469033759
+Thu May  9 04:38:28 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746965585700514
+Thu May  9 04:38:28 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746892929041113
+Thu May  9 04:38:28 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746889412374798
+Thu May  9 04:38:29 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_722444844819255
+Thu May  9 04:38:29 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_721896661540740
+Thu May  9 04:38:29 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718984201831986
+Thu May  9 04:38:29 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718977285166011
+Thu May  9 04:38:30 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718970641833342
+Thu May  9 04:38:30 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718953288501744
+Thu May  9 04:38:31 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718940918502981
+Thu May  9 04:38:31 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718931415170598
+Thu May  9 04:38:31 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718923145171425
+Thu May  9 04:38:32 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718898335173906
+Thu May  9 04:38:32 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718893191841087
+Thu May  9 04:38:32 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718870335176706
+Thu May  9 04:38:32 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718853065178433
+Thu May  9 04:38:33 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718832175180522
+Thu May  9 04:38:33 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718826041847802
+Thu May  9 04:38:34 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718810411849365
+Thu May  9 04:38:38 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:38:41 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:38:44 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:38:47 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:38:51 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:38:54 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:38:58 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:39:01 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:39:04 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:39:07 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:39:11 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:39:14 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:39:17 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:39:20 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:39:23 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:39:26 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:39:29 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:39:32 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:39:36 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:39:39 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:39:42 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:39:45 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:39:48 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:39:51 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:39:54 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:39:57 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:40:01 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:40:04 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:40:07 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:41:49 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746983955698677
+Thu May  9 04:41:49 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746981142365625
+Thu May  9 04:41:49 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746978785699194
+Thu May  9 04:41:50 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746976535699419
+Thu May  9 04:41:50 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746971172366622
+Thu May  9 04:41:50 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746966469033759
+Thu May  9 04:41:50 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746965585700514
+Thu May  9 04:41:51 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746892929041113
+Thu May  9 04:41:51 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746889412374798
+Thu May  9 04:41:51 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_722444844819255
+Thu May  9 04:41:52 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_721896661540740
+Thu May  9 04:41:52 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718984201831986
+Thu May  9 04:41:52 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718977285166011
+Thu May  9 04:41:52 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718970641833342
+Thu May  9 04:41:53 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718953288501744
+Thu May  9 04:41:53 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718940918502981
+Thu May  9 04:41:53 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718931415170598
+Thu May  9 04:41:53 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718923145171425
+Thu May  9 04:41:53 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718898335173906
+Thu May  9 04:41:54 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718893191841087
+Thu May  9 04:41:54 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718870335176706
+Thu May  9 04:41:54 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718853065178433
+Thu May  9 04:41:54 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718832175180522
+Thu May  9 04:41:55 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718826041847802
+Thu May  9 04:41:55 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718810411849365
+Thu May  9 04:41:58 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:42:01 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:43:38 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746983955698677
+Thu May  9 04:43:39 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746981142365625
+Thu May  9 04:43:39 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746978785699194
+Thu May  9 04:43:39 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746976535699419
+Thu May  9 04:43:39 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746971172366622
+Thu May  9 04:43:40 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746966469033759
+Thu May  9 04:43:40 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746965585700514
+Thu May  9 04:43:40 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746892929041113
+Thu May  9 04:43:40 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746889412374798
+Thu May  9 04:43:41 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_722444844819255
+Thu May  9 04:43:41 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_721896661540740
+Thu May  9 04:43:41 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718984201831986
+Thu May  9 04:43:41 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718977285166011
+Thu May  9 04:43:42 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718970641833342
+Thu May  9 04:43:42 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718953288501744
+Thu May  9 04:43:42 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718940918502981
+Thu May  9 04:43:43 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718931415170598
+Thu May  9 04:43:43 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718923145171425
+Thu May  9 04:43:43 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718898335173906
+Thu May  9 04:43:44 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718893191841087
+Thu May  9 04:43:44 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718870335176706
+Thu May  9 04:43:44 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718853065178433
+Thu May  9 04:43:45 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718832175180522
+Thu May  9 04:43:45 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718826041847802
+Thu May  9 04:43:46 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718810411849365
+Thu May  9 04:43:49 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:43:53 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:43:55 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:43:59 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:44:02 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:44:05 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:44:09 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:45:43 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746983955698677
+Thu May  9 04:45:43 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746981142365625
+Thu May  9 04:45:43 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746978785699194
+Thu May  9 04:45:43 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746976535699419
+Thu May  9 04:45:44 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746971172366622
+Thu May  9 04:45:44 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746966469033759
+Thu May  9 04:45:44 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746965585700514
+Thu May  9 04:45:45 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746892929041113
+Thu May  9 04:45:45 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746889412374798
+Thu May  9 04:45:45 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_722444844819255
+Thu May  9 04:45:45 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_721896661540740
+Thu May  9 04:45:46 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718984201831986
+Thu May  9 04:45:46 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718977285166011
+Thu May  9 04:45:46 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718970641833342
+Thu May  9 04:45:46 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718953288501744
+Thu May  9 04:45:46 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718940918502981
+Thu May  9 04:45:47 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718931415170598
+Thu May  9 04:45:47 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718923145171425
+Thu May  9 04:45:47 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718898335173906
+Thu May  9 04:45:47 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718893191841087
+Thu May  9 04:45:48 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718870335176706
+Thu May  9 04:45:48 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718853065178433
+Thu May  9 04:45:48 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718832175180522
+Thu May  9 04:45:48 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718826041847802
+Thu May  9 04:45:49 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718810411849365
+Thu May  9 04:45:52 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:45:54 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:45:58 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:46:01 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:46:04 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:46:07 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:46:10 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:49:30 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  102  post_image: {"id":"746988515698221","post_id":"708885272841879_746988515698221"}
+Thu May  9 04:49:41 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746988515698221
+Thu May  9 04:49:41 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746983955698677
+Thu May  9 04:49:41 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746981142365625
+Thu May  9 04:49:42 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746978785699194
+Thu May  9 04:49:42 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746976535699419
+Thu May  9 04:49:42 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746971172366622
+Thu May  9 04:49:43 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746966469033759
+Thu May  9 04:49:43 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746965585700514
+Thu May  9 04:49:43 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746892929041113
+Thu May  9 04:49:44 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_746889412374798
+Thu May  9 04:49:44 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_722444844819255
+Thu May  9 04:49:44 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_721896661540740
+Thu May  9 04:49:44 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718984201831986
+Thu May  9 04:49:45 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718977285166011
+Thu May  9 04:49:45 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718970641833342
+Thu May  9 04:49:45 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718953288501744
+Thu May  9 04:49:46 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718940918502981
+Thu May  9 04:49:46 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718931415170598
+Thu May  9 04:49:46 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718923145171425
+Thu May  9 04:49:47 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718898335173906
+Thu May  9 04:49:47 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718893191841087
+Thu May  9 04:49:47 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718870335176706
+Thu May  9 04:49:47 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718853065178433
+Thu May  9 04:49:47 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718832175180522
+Thu May  9 04:49:48 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  44  get_comments: getting comments to post 708885272841879_718826041847802
+Thu May  9 04:49:51 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:50:00 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:50:08 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:50:16 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:50:25 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:50:33 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:50:41 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:50:49 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:50:57 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:51:05 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:51:14 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:51:22 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:51:30 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:51:39 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 04:51:47 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  24  comment_image: posted nested image comment
+Thu May  9 12:33:38 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  115  post_image: {"id":"747146482349091","post_id":"708885272841879_747146482349091"}
+Thu May  9 13:18:52 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  115  post_image: {"id":"747168949013511","post_id":"708885272841879_747168949013511"}
+Thu May  9 14:04:23 2019    /home/andreas_s_faust/AnagramBot0009/FacebookPage.py  115  post_image: {"id":"747191072344632","post_id":"708885272841879_747191072344632"}
