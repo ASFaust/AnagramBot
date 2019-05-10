@@ -95,7 +95,7 @@ class FacebookPost:
 
 class FacebookPage:
     def __init__(self):
-        self.log = Logger("logs/facebook_log.txt")
+        self.log = Logger("logs/Facebook.log")
         self.recent_posts_json = {}     
         self.recent_posts = []
         self.token = open("token","r").read()

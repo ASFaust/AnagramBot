@@ -63,7 +63,7 @@ class Word:
             if(t["quality"] > max_q):
                 max_q = t["quality"]
         return max_q
-            
+        
     def is_subword(self,of):
         return (self.arr <= of.arr).all()
         
@@ -87,8 +87,8 @@ class Dictionary:
         for f in fav:
             if(len(f)) < 2:
                 continue
-            w = Word()
-            w.init_gen(f,10)
+            word = Word()
+            word.init_gen(f,10)
             self.fav_words.append(word)
         self.shuffle_words()
                     
@@ -198,9 +198,9 @@ class AnagramGenerator:
         self.dict.load_fav_words_from_text("dict/favorites.txt")
         self.paths = []
         self.ret = []
-        self.max_time = 5
+        self.max_time = 10
         self.start_time = 0
-        self.max_results = 10
+        self.max_results = 200
         self.breaking = False
         
     def run(self,text):
@@ -213,7 +213,7 @@ class AnagramGenerator:
         self.get_anagram(self.dict.words,whole_word,None)
         return self.ret
         
-    def shuffle_dict(self):
+    def shuffle_dictionary(self):
         self.dict.shuffle_words()
     
     def get_anagram(self,current_dict,remaining_word,anagram):
@@ -238,27 +238,4 @@ class AnagramGenerator:
                             return
                     else:
                         self.get_anagram(new_dict,new_remainig_word,new_anagram)
-            
 
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
