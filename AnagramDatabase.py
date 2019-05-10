@@ -44,11 +44,11 @@ class AnagramDatabase:
     def generate_anagrams(self,anagram_generator,max_time_seconds):
         start_time = time.time()
         for name in self.db:
-            
             if(len(self.db[name]) > 0):
                 continue
-            self.log.put("generating anagrams for " + name)
-            self.generate_anagrams_for_name(name)
+            self.log.put("generating anagrams")
+            self.generate_anagrams_for_name(name,anagram_generator)
+            time.sleep(1)#just to make it nicer
             if (time.time() - start_time) > max_time_seconds:
                 break
                 
@@ -72,11 +72,11 @@ class AnagramDatabase:
     def get_high_quality_anagrams(self,anagram_list):
         ok_anagrams = []
         max_quality = 0
-        for anagram in new_anagrams:
+        for anagram in anagram_list:
             quality = anagram.get_quality()
             if(quality > max_quality):
                 max_quality = quality
-        for anagram in new_anagrams:
+        for anagram in anagram_list:
             anagram_ok_flag = True
             if(anagram.get_quality() < max_quality):
                 anagram_ok_flag = False

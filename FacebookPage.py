@@ -128,6 +128,7 @@ class FacebookPage:
     def get_people_from_likes(self):
         ret = []
         params = (('access_token', self.token),)
+        self.log.put("this will take approximately " + str(5*len(self.recent_posts_json)) + " seconds")
         for t1 in self.recent_posts_json:
             response = 0
             try:
@@ -136,12 +137,14 @@ class FacebookPage:
                 if(str(response) != "<Response [200]>"):
                     self.log.put(str(response) + ": " + response.text)
                     time.sleep(10)
-                    return ret
+                    #return ret
             except:
                 self.log.put("response is None")
                 time.sleep(10)
                 return ret
-            t2 = json.loads(response.text)['data']
+            t2 = []
+            if(str(response) == "<Response [200]>"):
+                t2 = json.loads(response.text)['data']
             for t3 in t2:
                 try:
                     s1 = str(unicodedata.normalize('NFKD', t3['name']).encode('ascii','ignore'))[2:-1]
