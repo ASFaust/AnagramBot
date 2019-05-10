@@ -1,6 +1,9 @@
 #acces token
 token
 
+#test file
+test.py
+
 #user datbases
 anagram_database.json
 comment_database.json

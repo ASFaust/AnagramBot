@@ -83,19 +83,16 @@ class AnagramBot0009:
     def anagram_generator_job(self,min_person_pull_interval_seconds = 120,max_time_seconds = 60):
         self.log.put("anagram_generator_job")
         now = time.time()
-        new_people_count = 0
         if((now - self.last_person_pull_time) >= min_person_pull_interval_seconds):
             new_people = self.fb.get_people_from_likes()
             for person in new_people:
                 if(not person in self.anagram_db):
                     self.anagram_db[person] = []
                     new_people_count += 1
-        self.log.put(str(new_people_count) + " new people will be registered in the database")
         for person in self.anagram_db:
             if(len(self.anagram_db[person]) <= 0):
                 self.log.put("next one")
-                start_time = time.time()
-                while((time.time() - start_time < 15) and len(self.anagram_db[person]) <= 20):
+                for i in range(0,2):
                     self.anagram_generator.shuffle_dict()
                     self.anagram_db[person] += self.anagram_generator.run(person)
                 self.remove_duplicates(person)
@@ -105,6 +102,7 @@ class AnagramBot0009:
                 if(time.time() - now) > max_time_seconds:
                     return
         self.save_db(self.anagram_db,"anagram_database.json")
+        #todo: add code that deletes entries from database that are empty now.
     
     def remove_duplicates(self,person):
         anagrams = []

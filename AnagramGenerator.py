@@ -11,17 +11,18 @@ class Word:
         self.arr = 0
         self.hash_value = 0
 
-    def init_json(self,data):
+    def init_from_dict(self,data):
         self.repr = data["repr"]
         self.arr = np.array(data["arr"],dtype = np.int16)
         self.hash_value = data["hash"]
         Word.word_init_counter = max(int(data["hash"]) + 1,Word.word_init_counter)
 
-    def get_json(self):
+    def get_dict(self):
         ret = {}
         ret["repr"] = self.repr
         ret["arr"] = self.arr.tolist()
         ret["hash"] = self.hash_value
+        return ret
 
     def init_gen(self,txt,quality):
         self.repr = [{"text" : txt,"quality" : quality}]
@@ -69,30 +70,34 @@ class Word:
 class Dictionary:
     def __init__(self):
         self.words = []
-        self.favs = []
-        self.normal = []
+        self.fav_words = []
+        self.normal_words = []
         
-    def load_from_json(self,filename):
+    def load_normal_words_from_json(self,filename):
         db = json.load(open(filename,"r"))
         for word_name in db:
             word = Word()
-            word.init_json(db[word_name])
-            self.normal.append(word)
-        fav = open("dict/favorites.txt","r").read().split("\n")
+            word.init_from_dict(db[word_name])
+            self.normal_words.append(word)
+        self.shuffle_words()
+        
+    def load_fav_words_from_text(self,filename):
+        #"dict/favorites.txt"
+        fav = open(filename,"r").read().split("\n")
         for f in fav:
             if(len(f)) < 2:
                 continue
             w = Word()
             w.init_gen(f,10)
-            self.append_fav(w)
+            self.fav_words.append(word)
         self.shuffle_words()
-            
+                    
     def shuffle_words(self):
-        random.shuffle(self.favs)
-        random.shuffle(self.normal)
-        self.words = self.favs + self.normal
+        random.shuffle(self.fav_words)
+        random.shuffle(self.normal_words)
+        self.words = self.fav_words + self.normal_words
     
-    def gen_from_dicts(self):
+    def gen_normal_from_text_files(self,filename):
         self.words = []
         print("loading normal")
         normal = open("dict/dict.txt","r").read().split("\n")
@@ -101,7 +106,7 @@ class Dictionary:
                 continue
             w = Word()
             w.init_gen(f,5)
-            self.append_word(w)
+            self.append_normal_word(w)
             print(f)
         print("loading short")
         short = open("dict/smallwords.txt","r").read().split("\n")
@@ -110,30 +115,45 @@ class Dictionary:
                 continue
             w = Word()
             w.init_gen(f,1)
-            self.append_word(w)
-        print(len(self.words))
-        
-    def save_to_json(self):
+            self.fav_words.append(word)
         db = {}
-        for word in self.words:
+        for word in self.normal_words:
             db[word.hash_value] = {"repr" : word.repr, "arr" : word.arr.tolist(), "hash" : word.hash_value}
         json_data = json.dumps(db)
-        f = open("dict.json","w")
+        f = open(filename,"w")
         f.write(json_data)
         f.close()
         
-    def append_word(self,word):
-        for w in self.words:
+    def append_normal_word(self,word):
+        for w in self.normal_words:
             if(word.same_as(w)):
                 return
-        self.words.append(word)
-    
-    def append_fav(self,word):
-        self.favs.append(word)
+        self.normal_words.append(word)
         
 class Anagram:
     def __init__(self):
-        self.new
+        self.new_word = None
+        self.arr = None
+        self.path = None
+        self.words = None
+        
+    def get_dict(self):
+        #only needs self.words and self.path saved
+        ret = {}
+        ret["path"] = self.path
+        word_dict_arr = []
+        for word in self.words:
+            word_dict_arr.append(word.get_dict())
+        ret["words"] = word_dict_arr
+        return ret
+        
+    def set_from_dict(self,anagram_dict):
+        self.path = anagram_dict["path"]
+        for word_dict in anagram_dict["words"]:
+            word = Word()
+            word.init_from_dict(word_dict)
+            self.words.append(word)
+        
     def create(self,new_word,old_anagram):
         self.new_word = new_word
         if(old_anagram is None):
@@ -148,8 +168,6 @@ class Anagram:
         path_arr.sort()
         self.path = "".join(path_arr)
         
-    
-    def 
     def get_quality(self):
         ret = 0
         for word in self.words:
@@ -169,11 +187,6 @@ class Anagram:
             else:
                 ret = ret + " " + text
         return ret
-        
-    def compute_new_remaining_word(self,remaining_word):
-        ret = Word()
-        ret.arr = remaining_word.arr - self.new_word.arr
-        return ret
 
     def same_as(self,other):
         return (self.path == other.path)
@@ -181,12 +194,13 @@ class Anagram:
 class AnagramGenerator:
     def __init__(self):
         self.dict = Dictionary()
-        self.dict.load_from_json("dict.json")
+        self.dict.load_normal_words_from_json("dict.json")
+        self.dict.load_fav_words_from_text("dict/favorites.txt")
         self.paths = []
         self.ret = []
-        self.max_time = 10
+        self.max_time = 5
         self.start_time = 0
-        self.max_results = 5
+        self.max_results = 10
         self.breaking = False
         
     def run(self,text):
@@ -197,14 +211,8 @@ class AnagramGenerator:
         whole_word.init_gen(text,100)
         self.start_time = time.time()
         self.get_anagram(self.dict.words,whole_word,None)
-        return self.ret #self.make_anagram_text()
-    
-    def make_anagram_text(self):
-        ret = []
-        for anagram in self.ret:
-            ret.append(anagram.get_text())
-        return ret
-        #sample from the words
+        return self.ret
+        
     def shuffle_dict(self):
         self.dict.shuffle_words()
     
@@ -217,10 +225,12 @@ class AnagramGenerator:
         for word in current_dict:
             if(word.is_subword(remaining_word)):
                 new_dict.append(word)
-                new_anagram = Anagram(word,anagram)
+                new_anagram = Anagram()
+                new_anagram.create(word,anagram)
                 if not (new_anagram.path in self.paths):                    
                     self.paths.append(new_anagram.path)
-                    new_remainig_word = new_anagram.compute_new_remaining_word(remaining_word)
+                    new_remainig_word = Word()
+                    new_remainig_word.arr = remaining_word.arr - word.arr
                     if(not new_remainig_word.arr.any()):
                         self.ret.append(new_anagram)
                         if(len(self.ret) >= self.max_results):

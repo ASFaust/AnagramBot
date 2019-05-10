@@ -6,12 +6,16 @@ import time
 
 class FacebookComment:
     def __init__(self,data,log):
+        self.valid = True        
         self.data = data
         self.log = log
-        self.id = self.data['id']
-        self.user_name = str(unicodedata.normalize('NFKD', self.data['from']['name']).encode('ascii','ignore'))[2:-1]
-        self.text = str(unicodedata.normalize('NFKD', self.data['message']).encode('ascii','ignore'))[2:-1]
-        self.token = open("token","r").read()
+        try:
+            self.id = self.data['id']
+            self.user_name = str(unicodedata.normalize('NFKD', self.data['from']['name']).encode('ascii','ignore'))[2:-1]
+            self.text = str(unicodedata.normalize('NFKD', self.data['message']).encode('ascii','ignore'))[2:-1]
+            self.token = open("token","r").read()
+        except:
+            self.valid = False
         #self.log.put("init comment. user_name: " + self.user_name)
        
     def comment_image(self,path,text = ""):
@@ -22,10 +26,17 @@ class FacebookComment:
         files = {'source':(path.split("/")[-1],open(path,"rb"),'image/png',{'Expires': '0'})}
         try:
             response = requests.post('https://graph.facebook.com/v3.2/'+self.id+ '/comments', params=params,files = files)
+            time.sleep(5)
+            if(str(response) != "<Response [200]>"):
+                self.log.put(str(response) + ": " + response.text)
+                return False
             self.log.put("posted nested image comment")
-            return response
+            return True
         except:
-            return 0
+            return False
+            
+    def is_valid(self):
+        return self.valid
 
 class FacebookPost:
     def __init__(self,data,log):
@@ -46,9 +57,22 @@ class FacebookPost:
             ret = []
             self.log.put("getting comments to post " + self.id)
             params = (('access_token', self.token),)
-            cmts = json.loads(requests.get('https://graph.facebook.com/v3.2/'+self.id+'/comments', params=params).text)
+            cmts = {}
+            response_text = ""
+            response = None
+            try:
+                response = requests.get('https://graph.facebook.com/v3.2/'+self.id+'/comments', params=params)
+                time.sleep(5)
+                response_text = response.text
+                cmts = json.loads(response_text)
+            except:
+                self.log.put("couldn't get comments: response: " + str(response) + ", response_text: " + response_text)
+                time.sleep(10)
+                return ret
             for t2 in cmts['data']:
-                ret.append(FacebookComment(t2,self.log))
+                fb_cmt = FacebookComment(t2,self.log)
+                if(fb_cmt.is_valid()):
+                    ret.append(fb_cmt)
             self.comments = ret
             return ret
            
@@ -58,8 +82,16 @@ class FacebookPost:
         ('access_token', self.token),
         )
         files = {'source':(path.split("/")[-1],open(path,"rb"),'image/png',{'Expires': '0'})}
-        response = requests.post('https://graph.facebook.com/v3.2/'+self.id+ '/comments', params=params,files = files)
-        return response
+        try:
+            response = requests.post('https://graph.facebook.com/v3.2/'+self.id+ '/comments', params=params,files = files)
+            if(str(response) != "<Response [200]>"):
+                self.log.put(str(response) + ": " + response.text)
+                time.sleep(10)
+                return False
+            else:
+                return True
+        except:
+            return False
 
 class FacebookPage:
     def __init__(self):
@@ -71,9 +103,19 @@ class FacebookPage:
     def get_most_recent_posts(self):
         ret = []
         params = (('access_token', self.token),)
+        response = None
         try:
             response = requests.get('https://graph.facebook.com/v3.2/me/feed', params=params)
+            time.sleep(5)
+            if(str(response) != "<Response [200]>"):
+                self.log.put(str(response) + ": " + response.text)
+                return ret
         except:
+            self.log.put("error at request get.")
+            try:
+                self.log.put(response.text)
+            except:
+                self.log.put("response is none")
             return ret
         self.recent_posts_json = json.loads(response.text)['data']
         ret = []
@@ -87,19 +129,26 @@ class FacebookPage:
         ret = []
         params = (('access_token', self.token),)
         for t1 in self.recent_posts_json:
-            likes = 0
+            response = 0
             try:
-                likes = requests.get('https://graph.facebook.com/v3.2/'+t1['id']+'/likes', params=params)
+                response = requests.get('https://graph.facebook.com/v3.2/'+t1['id']+'/likes', params=params)
+                time.sleep(5)
+                if(str(response) != "<Response [200]>"):
+                    self.log.put(str(response) + ": " + response.text)
+                    time.sleep(10)
+                    return ret
             except:
-                return
-            t2 = json.loads(likes.text)['data']
+                self.log.put("response is None")
+                time.sleep(10)
+                return ret
+            t2 = json.loads(response.text)['data']
             for t3 in t2:
                 try:
                     s1 = str(unicodedata.normalize('NFKD', t3['name']).encode('ascii','ignore'))[2:-1]
                     if(len(s1) > 0):
                         ret.append(s1)
                 except:
-                 continue
+                    continue
         return ret
             
     def post_image(self,path,text):
@@ -110,8 +159,11 @@ class FacebookPage:
         files = {'source':(path.split("/")[-1],open(path,"rb"),'image/png',{'Expires': '0'})}
         try:
             response = requests.post('https://graph.facebook.com/v3.2/me/photos', params = params,files = files)
+            time.sleep(10)
+            if(str(response) != "<Response [200]>"):
+                self.log.put(str(response) + ": " + response.text)
+                return False
         except:
-            return 0
-        self.log.put(response.text)
-        return response
+            return False
+        return True
       
