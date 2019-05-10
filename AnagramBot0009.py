@@ -11,9 +11,8 @@ class AnagramBot0009:
     def __init__(self,wait_post_time = 0):
         self.log = Logger("logs/AnagramBot0009.log")
         self.log.put("start")
-        self.post_interval = 45 * 60 #post every 45 minutes
+        self.post_interval = 30 * 60 #post every 45 minutes
         self.last_post_time = time.time() + wait_post_time - self.post_interval - 1
-        self.last_comment_time = 0
         self.last_person_pull_time = 0
         self.fb = FacebookPage()
         self.anagram_db = AnagramDatabase("anagram_database.json")
@@ -22,9 +21,7 @@ class AnagramBot0009:
         self.log.put("init finished")
         
     def main_loop(self):
-        self.log.put("getting most recent posts")
         self.fb.get_most_recent_posts()
-        self.log.put("getting most recent posts finished")
         while(True): 
             time.sleep(10)
             self.anagram_generator_job()

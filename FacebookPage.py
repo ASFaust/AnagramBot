@@ -101,6 +101,7 @@ class FacebookPage:
         self.token = open("token","r").read()
    
     def get_most_recent_posts(self):
+        self.log.put("start")
         ret = []
         params = (('access_token', self.token),)
         response = None
@@ -123,17 +124,18 @@ class FacebookPage:
             ret.append(FacebookPost(t1,self.log))
         self.recent_posts = ret
         #self.log.put("got recent posts")
+        self.log.put("end")
         return ret 
             
     def get_people_from_likes(self):
         ret = []
         params = (('access_token', self.token),)
-        self.log.put("this will take approximately " + str(5*len(self.recent_posts_json)) + " seconds")
+        self.log.put("this will take approximately " + str(1*len(self.recent_posts_json)) + " seconds")
         for t1 in self.recent_posts_json:
             response = 0
             try:
                 response = requests.get('https://graph.facebook.com/v3.2/'+t1['id']+'/likes', params=params)
-                time.sleep(5)
+                time.sleep(1)
                 if(str(response) != "<Response [200]>"):
                     self.log.put(str(response) + ": " + response.text)
                     time.sleep(10)

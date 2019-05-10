@@ -135,7 +135,13 @@ class Anagram:
         self.new_word = None
         self.arr = None
         self.path = None
-        self.words = None
+        self.words = []
+    
+    def set_from_text(self,text):
+        word = Word()
+        word.init_gen(text,100)
+        self.words = [word]
+        self.path = word.hash_value
         
     def get_dict(self):
         #only needs self.words and self.path saved
