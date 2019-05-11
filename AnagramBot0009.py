@@ -23,11 +23,12 @@ class AnagramBot0009:
     def main_loop(self):
         self.fb.get_most_recent_posts()
         while(True): 
-            time.sleep(10)
-            self.anagram_generator_job()
-            time.sleep(10)
+            #time.sleep(10)
+            #self.anagram_generator_job()
+            #time.sleep(10)
             self.feed_post_job()
-    
+            time.sleep(300)
+
     def feed_post_job(self):
         self.log.put("feed post job")
         now = time.time()
