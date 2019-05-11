@@ -41,9 +41,9 @@ class AnagramDatabase:
                 return name,"h"
             anagram_idx = random.randint(0,len(self.db[name]) - 1)
             anagram = self.db[name].pop(anagram_idx).get_text()
-            self.anagram_count -= 1
-            if(len(self.db[name]) <= 0):
-                self.nonzero_person_count -= 1
+            self.anagram_count = 1
+            self.db[name] = []
+            self.nonzero_person_count -= 1
             return name,anagram
         else:
             return "lmao i don't have any","anagrams in my database"
@@ -66,7 +66,10 @@ class AnagramDatabase:
             for name in self.db:
                 if(len(self.db[name]) > 0):
                     continue
-                self.generate_anagrams_for_name(name,anagram_generator)
+                try:
+                    self.generate_anagrams_for_name(name,anagram_generator)
+                except:
+                    self.log.put("error at gen anagrams for name")
                 if (time.time() - start_time) > max_time_seconds:
                     break
         else:

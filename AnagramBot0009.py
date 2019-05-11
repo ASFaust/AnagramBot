@@ -28,6 +28,7 @@ class AnagramBot0009:
             #time.sleep(10)
             self.feed_post_job()
             time.sleep(300)
+            self.anagram_generator_job()
 
     def feed_post_job(self):
         self.log.put("feed post job")
