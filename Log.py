@@ -10,14 +10,20 @@ class Logger:
             os.makedirs(self.logpath)
         
     def put(self,log):
-        text = time.ctime() + "    "
-        stack = inspect.stack()
-        s = stack[1]
-        text += str(s[1]) + "  " + str(s[2]) + "  " + str(s[3]) + ": " + log
-        f = open(self.filename,"a")
-        f.write(text + "\n")    
-        f.close()
-        print(text)
+        try:
+            text = time.ctime() + "    "
+            stack = inspect.stack()
+            s = stack[1]
+            text += str(s[1]) + "  " + str(s[2]) + "  " + str(s[3]) + ": " + log
+            f = open(self.filename,"a")
+            f.write(text + "\n")    
+            f.close()
+            try:
+                print(text)
+            except:
+                return
+        except:
+            return
 
     def __exit__(self):
         f = open(self.filename,"a")

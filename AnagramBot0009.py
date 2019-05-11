@@ -33,12 +33,21 @@ class AnagramBot0009:
         self.log.put("feed post job")
         now = time.time()
         if((now - self.last_post_time) >= self.post_interval):
-            original,anagram = self.anagram_db.pop_random()
-            self.anagram_drawer.draw_image(original,anagram,"out.png")
-            self.fb.post_image("out.png","HERE IS YOUR ANAGRAM")    
+            try:
+                original,anagram = self.anagram_db.pop_random()
+            except:
+                log.put("anagram db error")
+            try:
+                self.anagram_drawer.draw_image(original,anagram,"out.png")
+            except:
+                self.log.put("anagram drawer exception")
+            try:
+                self.fb.post_image("out.png","HERE IS YOUR ANAGRAM")    
+            except:
+                self.log.put("fb post image error")
             self.last_post_time = now
             self.log.put("posted: Original: " + original + " , Anagram: " + anagram)
-            self.fb.get_most_recent_posts()
+            #self.fb.get_most_recent_posts()
             
     def anagram_generator_job(self,min_person_pull_interval_seconds = 300, max_time_seconds = 120):
         self.log.put("anagram generator job")
