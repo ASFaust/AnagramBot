@@ -5,76 +5,87 @@
     "scale" : 60, 
     "offset" : [0,-6],
     "arrow_y_padding" : 6,
-    "arrow_width" : 3},
+    "arrow_width" : 3,
+    "case" : "upper"},
 
 "bladerunner.ttf" : { 
     "keywords" : ["future", "purple","megacorp","replicant","tyrell","deckard"] , 
     "scale" : 60, 
     "offset" : [0,-6], 
     "arrow_y_padding" : 6,
-    "arrow_width" : 5},
+    "arrow_width" : 5,
+    "case" : "camel"},
     
 "obelix.ttf" : {
     "keywords" : ["obelix", "idefix","asterix","troubadix","miraculix"] , 
     "scale" : 60, 
     "offset" : [0,0], 
     "arrow_y_padding" : 5,
-    "arrow_width" : 6},
+    "arrow_width" : 6,
+    "case" : "camel"},
     
 "sega.ttf" : {
     "keywords" : ["sega", "sonic","mortal","game","megadrive"] , 
     "scale" : 60, 
     "offset" : [0,0], 
     "arrow_y_padding" : 8,
-    "arrow_width" : 6},
+    "arrow_width" : 6,
+    "case" : "upper"},
     
 "goth.ttf" : {
     "keywords" : ["thy","whom","thou","knight","castle","sword","lady","goth","death"],
     "scale" : 60, 
     "offset" : [0,-3], 
     "arrow_y_padding" : 5,
-    "arrow_width" : 2},
+    "arrow_width" : 2,
+    "case" : "camel"},
 
 "jedi.ttf" : {
     "keywords" : ["luke","skywalker","jedi","empire","vader","leia","naboo","anakin","yoda","han","jabba"],
     "scale" : 60, 
     "offset" : [0,-15], 
     "arrow_y_padding" : 0,
-    "arrow_width" : 4},
+    "arrow_width" : 4,
+    "case" : "lower"},
 
 "ruski.ttf" : {
     "keywords" : ["russia","kremlin","moscow","red","vodka","comrade","putin","lenin","blyat","stalin","hardbass","communism","communist"],
     "scale" : 60,
     "offset" : [0,-5], 
     "arrow_y_padding" : 2,
-    "arrow_width" : 8},
+    "arrow_width" : 8,
+    "case" : "lower"},
     
 "spongebob.ttf" : {
     "keywords" : ["gary","bob","squarepants","spongebob","krabs","patrick","sandy","pineapple","sea","perla"],
     "scale" : 60, 
     "offset" : [0,0], 
     "arrow_y_padding" : 5,
-    "arrow_width" : 4},
+    "arrow_width" : 4,
+    "case" : "camel"},
     
 "texas.otf" : {
     "keywords" : ["texas","bitch","yeehaw","south","country"],
     "scale" : 60, 
     "offset" : [0,-8], 
     "arrow_y_padding" : 0,
-    "arrow_width" : 6},
+    "arrow_width" : 6,
+    "case" : "upper"},
 
 "mario.ttf" : {
     "keywords" : ["mario","bowser","peach","toad","nintendo","yoshi"],
     "scale" : 60, 
     "offset" : [0,0], 
     "arrow_y_padding" : 8,
-    "arrow_width" : 4},
+    "arrow_width" : 4,
+    "case" : "camel"},
 
 "mono_01.ttf" : {
     "keywords" : [""],
     "scale" : 60, 
     "offset" : [0,0],
     "arrow_y_padding" : 4, 
-    "arrow_width" : 5}
+    "arrow_width" : 5,
+    "case" : "camel"}
 
 }
