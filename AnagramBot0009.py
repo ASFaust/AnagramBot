@@ -21,10 +21,9 @@ class AnagramBot0009:
         self.log.put("init finished")
         
     def main_loop(self):
-
-        while(True): 
-            self.feed_post_job()
+        while(True):             
             self.anagram_generator_job()
+            self.feed_post_job()
 
     def feed_post_job(self):
         self.log.put("feed post job")
@@ -51,7 +50,7 @@ class AnagramBot0009:
         if((now - self.last_person_pull_time) >= min_person_pull_interval_seconds):
             self.log.put("pulling persons from facebook")
             self.anagram_db.purge_empty_entries() #remove old unanagramized entries
-            self.fb.get_recent_posts()
+            self.fb.get_most_recent_posts()
             new_people = self.fb.get_people_from_likes()
             for person_name in new_people:
                 self.anagram_db.register_name(person_name)
