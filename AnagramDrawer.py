@@ -86,17 +86,18 @@ class AnagramDrawer:
         self.offset[1] *= self.aa_factor
         self.current_font = self.fonts[sel_font]["font"]
 
-    def adjust_case(text):
+    def adjust_case(self,text):
         ret = "" 
         str_arr = text.split(" ")
         for word in str_arr:
+            ret += " "
             if(self.case == "camel"):
                 ret += word[0].upper() + word[1:]
             if(self.case == "upper"):
                 ret += word.upper()
             if(self.case == "lower"):
                 ret += word.lower()
-        return ret
+        return ret[1:]
 
     #takes two strings and makes an anagram picture from them
     def draw_image(self,str1,str2,filename):
