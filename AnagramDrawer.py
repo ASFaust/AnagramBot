@@ -15,12 +15,14 @@ class AnagramDrawer:
         self.arrow_width = 0
         self.offset = (0,0)
         self.textSizeImage = Image.new('RGB',(1,1),(255,255,255))
-        self.fonts = json.load(open(font_json_path,'r'))
-        self.load_fonts()
+        self.fonts = {}
+        self.font_json_path = font_json_path
         self.current_font = 0
         self.case = "camel"
+        self.load_fonts()
         
     def load_fonts(self):
+        self.fonts = json.load(open(self.font_json_path,'r'))
         for f in self.fonts:
             sc = self.fonts[f]["scale"] * self.aa_factor
             self.fonts[f]["font"] = ImageFont.truetype('font/' + f,sc)
@@ -81,7 +83,7 @@ class AnagramDrawer:
         self.case = self.fonts[sel_font]["case"]
         self.arrow_y_padding = self.fonts[sel_font]["arrow_y_padding"] * self.aa_factor
         self.arrow_width = self.fonts[sel_font]["arrow_width"] * self.aa_factor
-        self.offset =  self.fonts[sel_font]["offset"]
+        self.offset = self.fonts[sel_font]["offset"].copy()
         self.offset[0] *= self.aa_factor
         self.offset[1] *= self.aa_factor
         self.current_font = self.fonts[sel_font]["font"]
