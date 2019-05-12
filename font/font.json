@@ -6,15 +6,15 @@
     "offset" : [0,-6],
     "arrow_y_padding" : 6,
     "arrow_width" : 3,
-    "case" : "upper"},
+    "case" : "lower"},
 
 "bladerunner.ttf" : { 
-    "keywords" : ["future", "purple","megacorp","replicant","tyrell","deckard"] , 
+    "keywords" : ["bladerunner","future", "purple","megacorp","replicant","tyrell","deckard"] , 
     "scale" : 60, 
     "offset" : [0,-6], 
     "arrow_y_padding" : 6,
     "arrow_width" : 5,
-    "case" : "camel"},
+    "case" : "lower"},
     
 "obelix.ttf" : {
     "keywords" : ["obelix", "idefix","asterix","troubadix","miraculix"] , 
@@ -30,7 +30,7 @@
     "offset" : [0,0], 
     "arrow_y_padding" : 8,
     "arrow_width" : 6,
-    "case" : "upper"},
+    "case" : "lower"},
     
 "goth.ttf" : {
     "keywords" : ["thy","whom","thou","knight","castle","sword","lady","goth","death"],
@@ -54,7 +54,7 @@
     "offset" : [0,-5], 
     "arrow_y_padding" : 2,
     "arrow_width" : 8,
-    "case" : "lower"},
+    "case" : "upper"},
     
 "spongebob.ttf" : {
     "keywords" : ["gary","bob","squarepants","spongebob","krabs","patrick","sandy","pineapple","sea","perla"],
@@ -70,7 +70,7 @@
     "offset" : [0,-8], 
     "arrow_y_padding" : 0,
     "arrow_width" : 6,
-    "case" : "upper"},
+    "case" : "lower"},
 
 "mario.ttf" : {
     "keywords" : ["mario","bowser","peach","toad","nintendo","yoshi"],
@@ -78,7 +78,7 @@
     "offset" : [0,0], 
     "arrow_y_padding" : 8,
     "arrow_width" : 4,
-    "case" : "camel"},
+    "case" : "lower"},
 
 "mono_01.ttf" : {
     "keywords" : [""],
