@@ -13,7 +13,6 @@ class AnagramDatabase:
         self.filename = filename
         self.log = Logger("logs/AnagramDatabase.log")
         self.db = {}
-        self.anagram_count = 0
         self.nonzero_person_count = 0
         dict_db = []
         try:
@@ -28,32 +27,32 @@ class AnagramDatabase:
                 anagram = Anagram()
                 anagram.set_from_dict(dict_anagram)
                 anagrams.append(anagram)
-                self.anagram_count += 1
             self.db[name] = anagrams
         
     
     def pop_random(self):
-        non_empty_db = {}
-        self.purge_empty_entries()
+        non_empty_db = self.get_nonzero_entries()
         if(len(self.db) > 0):
-            name = random.choice(list(self.db.keys()))
-            if(random.randint(0, 200) == 1):
+            name = random.choice(list(non_empty_db.keys()))
+            if(random.randint(1, 400) == 1):
                 return name,"h"
-            anagram_idx = random.randint(0,len(self.db[name]) - 1)
+            anagram_idx = random.randint(0,len(non_empty_db[name]) - 1)
             anagram = self.db[name].pop(anagram_idx).get_text()
-            self.anagram_count = 1
-            self.db[name] = []
+            non_empty_db[name] = []
             self.nonzero_person_count -= 1
             return name,anagram
         else:
             return "lmao i don't have any","anagrams in my database"
     
-    def purge_empty_entries(self):
-        new_db = {}
+    def get_nonzero_entries(self):
+        ret = {}
         for name in self.db:
             if(len(self.db[name]) > 0):
-                new_db[name] = self.db[name]
-        self.db = new_db
+                ret[name] = self.db[name]
+        return ret
+
+    def purge_empty_entries(self):
+        self.db = self.get_nonzero_entries()
 
     def register_name(self,name):
         if not (name in self.db) and (len(name) < 100):
@@ -80,7 +79,6 @@ class AnagramDatabase:
         anagram_generator.shuffle_dictionary()
         new_anagrams = anagram_generator.run(name)
         self.db[name] = self.get_high_quality_anagrams(new_anagrams)
-        self.anagram_count += len(self.db[name])
         if(len(self.db[name]) <= 0):
             self.log.put("didnt find any anagrams")
             anagram_1 = Anagram()
@@ -88,7 +86,6 @@ class AnagramDatabase:
             anagram_2 = Anagram()
             anagram_2.set_from_text("Blyat, i'm too stupid to find anagrams!")
             self.db[name] = [anagram_1,anagram_2]
-            self.anagram_count += 2
         self.nonzero_person_count += 1
             
     def save(self,filename):
