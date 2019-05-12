@@ -21,7 +21,6 @@ class AnagramBot0009:
         self.log.put("init finished")
         
     def main_loop(self):
-        self.fb.get_most_recent_posts()
         while(True): 
             self.feed_post_job()
             self.anagram_generator_job()
@@ -44,7 +43,6 @@ class AnagramBot0009:
                 self.log.put("fb post image error")
             self.last_post_time = now
             self.log.put("posted: Original: " + original + " , Anagram: " + anagram)
-            #self.fb.get_most_recent_posts()
             
     def anagram_generator_job(self,min_person_pull_interval_seconds = 300, max_time_seconds = 120):
         self.log.put("anagram generator job")
