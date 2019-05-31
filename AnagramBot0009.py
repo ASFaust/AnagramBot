@@ -32,7 +32,7 @@ class AnagramBot0009:
             try:
                 original,anagram = self.anagram_db.pop_random()
             except:
-                log.put("anagram db error")
+                self.log.put("anagram db error")
             try:
                 self.anagram_drawer.draw_image(original,anagram,"out.png")
             except:
