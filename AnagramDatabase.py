@@ -77,6 +77,10 @@ class AnagramDatabase:
                 
     def generate_anagrams_for_name(self,name,anagram_generator):
         anagram_generator.shuffle_dictionary()
+        while(name[0] == " "):
+            name = name[1:]
+        while(name[-1] == " "):
+            name = name[:-1]
         new_anagrams = anagram_generator.run(name)
         hq_anagrams = self.get_high_quality_anagrams(new_anagrams)
         if(len(hq_anagrams) <= 0):
