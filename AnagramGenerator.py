@@ -208,10 +208,12 @@ class AnagramGenerator:
         self.start_time = 0
         self.max_results = 200
         self.breaking = False
+        self.max_depth = 4
         
     def run(self,text):
         self.paths = []
         self.ret = []
+        self.max_depth = len(text.split(" ")) + 1
         self.breaking = False
         whole_word = Word()
         whole_word.init_gen(text,100)
@@ -222,10 +224,9 @@ class AnagramGenerator:
     def shuffle_dictionary(self):
         self.dict.shuffle_words()
     
-    def get_anagram(self,current_dict,remaining_word,anagram):
-        if((time.time() - self.start_time) >= self.max_time) or self.breaking:
+    def get_anagram(self,current_dict,remaining_word,anagram,depth = 0):
+        if((time.time() - self.start_time) >= self.max_time) or self.breaking or (depth >= self.max_depth):
             return
-
         new_dict = []
         remaining_words = []
         for word in current_dict:
@@ -233,7 +234,7 @@ class AnagramGenerator:
                 new_dict.append(word)
                 new_anagram = Anagram()
                 new_anagram.create(word,anagram)
-                if not (new_anagram.path in self.paths):                    
+                if not (new_anagram.path in self.paths):   
                     self.paths.append(new_anagram.path)
                     new_remainig_word = Word()
                     new_remainig_word.arr = remaining_word.arr - word.arr
@@ -243,5 +244,5 @@ class AnagramGenerator:
                             self.breaking = True
                             return
                     else:
-                        self.get_anagram(new_dict,new_remainig_word,new_anagram)
+                        self.get_anagram(new_dict,new_remainig_word,new_anagram,depth+1)
 
