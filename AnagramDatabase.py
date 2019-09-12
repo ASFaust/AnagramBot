@@ -78,15 +78,12 @@ class AnagramDatabase:
     def generate_anagrams_for_name(self,name,anagram_generator):
         anagram_generator.shuffle_dictionary()
         new_anagrams = anagram_generator.run(name)
-        self.db[name] = self.get_high_quality_anagrams(new_anagrams)
-        if(len(self.db[name]) <= 0):
+        hq_anagrams = self.get_high_quality_anagrams(new_anagrams)
+        if(len(hq_anagrams) <= 0):
             self.log.put("didnt find any anagrams")
-            anagram_1 = Anagram()
-            anagram_1.set_from_text("Sorry, i couldn't find any anagrams for you")
-            anagram_2 = Anagram()
-            anagram_2.set_from_text("Blyat, i'm too stupid to find anagrams!")
-            self.db[name] = [anagram_1,anagram_2]
-        self.nonzero_person_count += 1
+        else:
+            self.db[name] = hq_anagrams
+            self.nonzero_person_count += 1
             
     def save(self,filename):
         save_db = {}
