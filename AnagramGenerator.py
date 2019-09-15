@@ -214,6 +214,9 @@ class AnagramGenerator:
         self.paths = []
         self.ret = []
         self.max_depth = len(text.split(" ")) + 1
+        print("text, max_depth:")        
+        print(text)
+        print(self.max_depth)
         self.breaking = False
         whole_word = Word()
         whole_word.init_gen(text,100)
